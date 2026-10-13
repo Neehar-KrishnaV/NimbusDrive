@@ -31,3 +31,14 @@ build/
 
 ### VS Code ###
 .vscode/
+
+# Uploaded files
+/uploads/
+
+# Build output
+/target/
+
+# Environment files
+.env
+.env.*
+!.env.example
